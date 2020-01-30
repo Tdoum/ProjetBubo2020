@@ -1,0 +1,2 @@
+all :
+	g++ Enregistrement.cpp Horodatage.cpp Lampadaire.cpp Ampoule.cpp Galerie.cpp GPS.cpp Geolocalisation.cpp BDD.cpp Collecteur.cpp listerEnregistrements.cpp -o listerEnregistrements.cgi -std=c++11 -lsqlite3 -lcgicc

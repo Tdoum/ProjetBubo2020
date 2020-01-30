@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Ampoule">
+    <Position X="0.75" Y="8.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAQAAAAQIAACA5QAAAiAAAAAAAABAAA=</HashCode>
+      <FileName>Ampoule.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BDD">
+    <Position X="12.5" Y="10.25" Width="15.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAEAUABDAAAAEQBAAAAIAAAAQAQAAQABAAAA=</HashCode>
+      <FileName>BDD.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Collecteur">
+    <Position X="7.25" Y="0.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAYBPAAEAAAAgCAAEAAIAEBAgAAAAAIAUAAAACQ=</HashCode>
+      <FileName>Collecteur.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enregistrement">
+    <Position X="12.5" Y="0.75" Width="16" />
+    <AssociationLine Name="galerie" Type="Galerie" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="14.875" Y="0.75" />
+        <Point X="14.875" Y="0.26" />
+        <Point X="5.625" Y="0.26" />
+        <Point X="5.625" Y="0.5" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="ampoule" Type="Ampoule" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="13.062" Y="8.65" />
+        <Point X="13.062" Y="9.655" />
+        <Point X="7.326" Y="9.655" />
+        <Point X="7.326" Y="9.835" />
+        <Point X="4.5" Y="9.835" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>RAATIAAoBAAAgAACIEQBgBACAKIAgADCIALAQAAIBAQ=</HashCode>
+      <FileName>Enregistrement.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="lampadaire" />
+      <Field Name="galerie" />
+      <Field Name="ampoule" />
+      <Field Name="horodatage" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Error" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAEQAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Error.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Galerie">
+    <Position X="4.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAoAAAAAAAAAAAFAAAAAAAAAAAAAAAgAAACAA=</HashCode>
+      <FileName>Galerie.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GPS">
+    <Position X="1.75" Y="12.5" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAEACAAAAAAIAAAAAAAAAAAIAAAAAAIIAAAAAAAAAAA=</HashCode>
+      <FileName>GPS.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GPSError" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GPSError.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Horodatage">
+    <Position X="7.5" Y="6.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>EAAAAQAAAAEAAQAAAAAAAAAACEIAAAAAAAAEAQAAAAA=</HashCode>
+      <FileName>Horodatage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lampadaire">
+    <Position X="4.75" Y="5.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAABAAAQAAAQAAAAAAgEAARACIACAEAAAAAAAEAA=</HashCode>
+      <FileName>Lampadaire.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logger">
+    <Position X="0.5" Y="2.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>gAAQAQAAAAIAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LumError" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>LumError.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Luxmetre">
+    <Position X="4.25" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAABABAAQQIAAAAIAAAAAAAABAAA=</HashCode>
+      <FileName>Luxmetre.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Photo">
+    <Position X="0.5" Y="5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAEIABAAAACAAAAEAAAAAAABAAAAAAAIAIIAQAAA=</HashCode>
+      <FileName>Photo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SQLError" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>SQLError.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,76 @@
+HTTP/1.1 200 OK
+Date: Mon, 09 Jul 2018 11:51:07 GMT
+Server: Apache/2.4.29 (Unix)
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/event-stream
+
+581
+retry: 10000
+data: {"enregistrement":
+	[
+		{
+			"ID":"22",
+			"POWER":"0",
+			"ALBEDO":"",
+			"FLUX":"",
+			"BUBOID":"000000002ed09bce",
+			"LAMP":"Galogenures metalliques",
+			"STREETLIGHT":"Applique simple",
+			"HEIGHT":"4.5",
+			"LATITUDE":"43.518790",
+			"LONGITUDE":"1.312883",
+			"NBIMAGES":"0",
+			"TOWN":"dsqfdsg",
+			"STREET":"dsfghfh",
+			"ULOR":"10",
+			"DATE":"040718",
+			"NOTES":""
+		},
+		{
+			"ID":"20",
+			"POWER":"0",
+			"ALBEDO":"null",
+			"FLUX":" ",
+			"BUBOID":"000000002ed09bce",
+			"LAMP":"null",
+			"STREETLIGHT":"Lampadaire boule",
+			"HEIGHT":"4.5",
+			"LATITUDE":"43.518780",
+			"LONGITUDE":"1.312900",
+			"NBIMAGES":"0",
+			"TOWN":"dsqfdsg",
+			"STREET":"dsfghfh",
+			"ULOR":"5",
+			"DATE":"040718",
+			"NOTES":""
+		},
+		{
+			"ID":"19",
+			"POWER":"0",
+			"ALBEDO":"",
+			"FLUX":"",
+			"BUBOID":"000000002ed09bce",
+			"LAMP":"",
+			"STREETLIGHT":"Projecteur sur mat",
+			"HEIGHT":"4.5",
+			"LATITUDE":"43.518771",
+			"LONGITUDE":"1.312900",
+			"NBIMAGES":"0",
+			"TOWN":"dsqfdsg",
+			"STREET":"dsfghfh",
+			"ULOR":"10",
+			"DATE":"040718",
+			"NOTES":""
+		},
+		{
+			"ID":"11",
+			"POWER":"0",
+			"ALBEDO":" ",
+			"FLUX":" ",
+			"BUBOID":"000000002ed09bce",
+			"LAMP":"SHP 250",
+			"STREETLIGHT":" ",
+			"HEIGHT":"5.0",
+			"

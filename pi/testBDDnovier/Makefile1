@@ -1,0 +1,50 @@
+Collecteur: Enregistrement.o Logger.o  Horodatage.o Lampadaire.o Ampoule.o Galerie.o GPS.o Geolocalisation.o BDD.o Collecteur.o
+	
+	gcc -o Collecteur Enregistrement.o Logger.o  Horodatage.o Lampadaire.o Ampoule.o Galerie.o GPS.o Geolocalisation.o BDD.o Collecteur.o -std=c++11 -lsqlite3 -lcgicc
+ 
+Enregistrement.o: Enregistrement.cpp
+
+	gcc -o Enregistrement.o -c Enregistrement.cpp -W -Wall -ansi -pedantic 
+
+Logger.o: Logger.cpp
+
+	gcc -o Logger.o -c Logger.cpp -W -Wall -ansi -pedatic
+
+Horodatage.o: Horodatage.cpp
+
+        gcc -o Horodatage.o -c Horodatage.cpp -W -Wall -ansi -pedatic
+
+Lampadaire.o: Lampadaire.cpp
+
+        gcc -o Lampadaire.o -c Lampadaire.cpp -W -Wall -ansi -pedatic
+
+
+Ampoule.o: Ampoule.cpp
+
+        gcc -o Ampoule.o -c Ampoule.cpp -W -Wall -ansi -pedatic
+
+
+
+Galerie.o: Galerie.cpp
+
+        gcc -o Galerie.o -c Galerie.cpp -W -Wall -ansi -pedatic
+
+
+GPS.o: GPS.cpp
+
+        gcc -o GPS.o -c GPS.cpp -W -Wall -ansi -pedatic
+
+
+Geolocalisation.o: Geolocalisation.cpp
+
+        gcc -o Geolocalisation.o -c Geolocalisation.cpp -W -Wall -ansi -pedatic
+
+
+BDD.o: BDD.cpp
+
+        gcc -o BDD.o -c BDD.cpp -W -Wall -ansi -pedatic
+
+
+Collecteur.o: Collecteur.cpp
+
+        gcc -o Collecteur.o -c Collecteur.cpp -W -Wall -ansi -pedatic

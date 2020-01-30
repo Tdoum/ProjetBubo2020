@@ -1,0 +1,237 @@
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after sqlite3_prepare library routine called out of sequence
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+latitude 43.6182
+after sqlite3_prepare not an error
+after step unknown error
+after sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error
+after DELETE sqlite3_prepare not an error
+after DELETE step unknown error
+after DELETE sqlite3_finalize not an error

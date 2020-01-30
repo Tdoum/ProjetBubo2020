@@ -1,0 +1,5 @@
+La latitude est : 43.518752
+La longitude est : 1.313025
+L'altitude est : 161
+
+ENREGISTREMENT EFFECTUÉ OK
