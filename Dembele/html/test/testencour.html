@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+   <title>jQuery la méthode get </title>
+   <script src="http://code.jquery.com/jquery-latest.js"></script>
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $.get("document.txt", function(result){
+      
+      if(result=="IBRAHIM"){
+      console.log("l'operation est bonne");
+}
+    });
+  });
+});
+</script>
+</head>
+<body>
+<h2>Modifier le texte</h2>
+<div class="result">ce contenu sera remplacé par le texte du fichier "ajax_load.txt" pour celà cliquez 
+sur le bouton "changer le contenu"</div>
+<button>Changer le Contenu</button>
+</body>
+</html>
